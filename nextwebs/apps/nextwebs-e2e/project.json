@@ -1,0 +1,9 @@
+{
+  "name": "nextwebs-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/nextwebs-e2e/src",
+  "targets": {},
+  "implicitDependencies": ["nextwebs"],
+  "tags": []
+}

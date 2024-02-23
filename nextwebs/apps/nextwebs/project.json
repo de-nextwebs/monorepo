@@ -1,0 +1,8 @@
+{
+  "name": "nextwebs",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nextwebs/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
